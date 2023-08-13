@@ -1,0 +1,2 @@
+# MonumentOfInfinity
+A study project
